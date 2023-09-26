@@ -1,0 +1,104 @@
+.nav-branner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+  }
+  .kao{
+  margin-left: 150px;
+  }
+  .p{
+    justify-content: center;
+    align-items: center;
+  }
+  .span{
+    color: #000000;
+    text-align: center;
+  }
+  .login{
+    display:inline-flex;
+    justify-content: end;
+    align-items: end;
+    width: 120px; 
+    height: 30px; 
+    padding: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-align: center;
+  }
+  .columns-icon{
+    width: 100px; 
+    height: 100px; 
+    background-color: #D9CBE0; 
+    border-radius: 50%; 
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+  }
+  .columns-icon1{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  }
+  .icon{
+    width: 50px; 
+    height: 50px; 
+    margin:auto;
+  }
+  .pa{
+    color: #000000;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+  
+  }
+  .borikan{
+    background-color: #836096;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0;
+    width: 1600px;
+    height: 300px;
+    text-align: center;
+  
+  }
+  .columns-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+  }
+  .columns-img1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .columns-img0{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer .footer-icon{
+    display: flex;
+    justify-content:space-between;
+    padding: 24px 550px 0px 550px;
+  }
+  
+  .bo{
+    color: #000000;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  margin: 10px;
+  
+  }
+  
